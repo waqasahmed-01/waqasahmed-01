@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Waqas Ahmed
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Node Js & Express (RESTful APIs)
+- 🌱 I’m currently learning Mern stack development
 - 😄 Pronouns: He/Him
 
 <!---
