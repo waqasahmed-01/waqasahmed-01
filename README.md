@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Waqas Ahmed</h1>
 
-<h3 align="center">Junior Full Stack Developer | MERN Stack</h3>
+<h3 align="center">Software Engineer | Full Stack Development Enthusiastic | MERN Stack</h3>
 
 <p align="center">
   Passionate about building full-stack web applications,
